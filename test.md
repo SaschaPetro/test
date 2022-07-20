@@ -27,7 +27,7 @@
 
 ## to Do
 
-- drink Coffee
+- ~~drink Coffee~~
 - eat something
 - Learn learn learn
 
